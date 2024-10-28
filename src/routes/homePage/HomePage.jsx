@@ -10,7 +10,7 @@ function HomePage() {
           <p>
            iure est nulla animi consequatur
             facilis id pariatur fugit quos laudantium temporibus dolor ea
-            repellat provident impedit!
+            repellat provident impedit
           </p>
           {/* <SearchBar /> */}
           <div className="boxes">
